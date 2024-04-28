@@ -88,13 +88,12 @@ DAX Function	SUMMARIZE = SUMMARIZE (Territories_DIM,Territories_DIM[Country],"Pr
 	
 Total profit = [Total Revenue]- [Total Cost]
 
+Snaps ,
+
+![Capture](https://github.com/Sagarbhar/Power-BI-Sales-Analysis-Project-DAX-/assets/168229258/463b0a55-e63d-4702-9246-988348adf73d)
+
 ### File Download Link
 
 https://easyupload.io/wohx6v
-
-        
-Report Snaps ,
-
-![Capture](https://github.com/Sagarbhar/Power-BI-Sales-Analysis-Project-DAX-/assets/168229258/463b0a55-e63d-4702-9246-988348adf73d)
 
     
