@@ -88,6 +88,10 @@ DAX Function	SUMMARIZE = SUMMARIZE (Territories_DIM,Territories_DIM[Country],"Pr
 	
 Total profit = [Total Revenue]- [Total Cost]
 
+### File Download Link
+
+https://easyupload.io/wohx6v
+
         
 Report Snaps ,
 
